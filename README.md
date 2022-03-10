@@ -15,6 +15,7 @@ Single sign-on (SSO) is an authentication scheme that allows a user to log in wi
   - [IdentityModel.OidcClient 2.0 - is a OpenID Connect/OAuth 2.0 client library for native desktop/mobile applications](https://github.com/IdentityModel/IdentityModel.OidcClient2)
   - [IdentityModel.OidcClient 2.0 - documentation](https://identitymodel.readthedocs.io/en/latest/native/overview.html)  
 - [.NET DotNetOpenAuth](http://dotnetopenauth.net/)
+- [OAuth Libraries for .NET](https://oauth.net/code/dotnet/)
 
 ## Tutorials
 
