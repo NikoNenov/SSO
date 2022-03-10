@@ -9,6 +9,11 @@ Single sign-on (SSO) is an authentication scheme that allows a user to log in wi
 - [OpenID Connect wiki page](https://de.wikipedia.org/wiki/OpenID_Connect)
 - [OAuth wiki page](https://de.wikipedia.org/wiki/OAuth)
 
+## Libraries
+
+- [Certified OpenID Connect Implementations](https://openid.net/developers/certified/)
+  - [IdentityModel.OidcClient 2.0 - is a OpenID Connect/OAuth 2.0 client library for native desktop/mobile applications](https://github.com/IdentityModel/IdentityModel.OidcClient2)
+
 ## Tutorials
 
 - [Curity - OpenID Connect Client with .NET](https://curity.io/resources/learn/dotnet-openid-connect-client/)
