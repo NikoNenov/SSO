@@ -26,3 +26,4 @@ Single sign-on (SSO) is an authentication scheme that allows a user to log in wi
 - [OAuth 2.0 Playground](https://www.oauth.com/playground/)
 - [Curity - demo application to explain how the OpenID Connect code flow is implemented](https://github.com/curityio/example-dotnet-openid-connect-client)
 - [IdentityModel.OidcClient 2.0 - samples](https://github.com/IdentityModel/IdentityModel.OidcClient.Samples)
+- [DotNetOpenAuth Samples](https://github.com/DotNetOpenAuth/DotNetOpenAuth.Samples)
